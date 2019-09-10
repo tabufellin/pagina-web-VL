@@ -9,12 +9,6 @@
 
 }
 
-/*#info img {
-  height: 150px;
-}*/
-
-
-
 #main .carousel-inner img {
   max-height: 70vh;
   object-fit: cover;
@@ -40,7 +34,16 @@
   height: 100%
 }
 
+#servicios {
+  background-color: #343A40;
+  color: white;
 
+}
+
+
+#servicios img {
+  max-width: 100%;
+}
 
 
 #footer {
